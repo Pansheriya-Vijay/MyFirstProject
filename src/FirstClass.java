@@ -5,7 +5,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello");
-		System.out.println("my name is vijay dinanath chauhan");
+		System.out.println("my name is selenium");
 		
 	}
 
